@@ -12,3 +12,13 @@ Steps:
 2. Display each variable's value in the console using console.log()
    This will print the values to the terminal when the program runs.
 */
+
+let fullName = "Your Full Name";
+let age = "0";
+let gender = "Male/Female";
+let phoneNumber = "9876543210";
+
+console.log(fullName);
+console.log(age);
+console.log(gender);
+console.log(phoneNumber);
